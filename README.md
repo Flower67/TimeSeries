@@ -1,4 +1,5 @@
 # Time Series
+![Yen Photo](Images/unit-10-readme-photo.png)
 
 ## Time Series Analysis Conclusions
 Based on my time series analysis, I would not buy the yen now as the price will decrease based on my predictions.
